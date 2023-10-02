@@ -23,7 +23,7 @@ Para el presente proyecto, se requiere disponer de una maquina virtual en Linux 
 Dentro de presente repositorio se encuentra el archivo [install-redmine.sh](**install-redmine.sh**) el cual contiene todas las instrucciones detalladas para instalar Redmine y sus programas o paquetes que se requieren previamente.
 
 > **NOTA**
-> Para la instalacion en Windows, ejecute el script [/install-redmine-windows.ps1](install-redmine-windows.ps1), equibalente al escript de linux.
+> Para la instalacion en Windows, ejecute el script [/install-redmine-windows.ps1](install-redmine-windows.ps1), equivalente al script de Linux.
 
 Ejecute el contenido del script en la maquina donde desee instalar **Redmin** o siga los siguientes pasos:
 

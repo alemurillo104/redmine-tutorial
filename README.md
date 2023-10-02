@@ -25,7 +25,7 @@ Dentro de presente repositorio se encuentra el archivo [install-redmine.sh](**in
 > **NOTA**
 > Para la instalacion en Windows, ejecute el script [/install-redmine-windows.ps1](install-redmine-windows.ps1), equivalente al script de Linux.
 
-Ejecute el contenido del script en la maquina donde desee instalar **Redmin** o siga los siguientes pasos:
+Ejecute el contenido del script en la maquina donde desee instalar **Redmine** o siga los siguientes pasos:
 
 ```sh
 cd /opt
@@ -64,18 +64,18 @@ ngrok authtoken _your_auth_token_
 ngrok http 3000
 ```
 
-## Configuracion de Redmin
+## Configuracion de Redmine
 Vea el video en [Video tutoral](http://youtube/ddd)
 ### Registro de Usuarios
 ### Creacion de un proyecto
 ### Creacion de Flujo
 
-## Reportar un Ticket en Redmin
+## Reportar un Ticket en Redmine
 ### Sitio Web
 ### Plugin Netbeans
 - Instalar el plugin **redminenb-1.12.1-SNAPSHOT.nbm**
 
-## Obtener un Reporte de Tickets en Redmin
+## Obtener un Reporte de Tickets en Redmine
 
 
 ### Screenshots

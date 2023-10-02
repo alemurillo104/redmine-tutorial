@@ -73,6 +73,7 @@ Vea el video en [Video tutoral](http://youtube/ddd)
 ## Reportar un Ticket en Redmin
 ### Sitio Web
 ### Plugin Netbeans
+- Instalar el plugin **redminenb-1.12.1-SNAPSHOT.nbm**
 
 ## Obtener un Reporte de Tickets en Redmin
 

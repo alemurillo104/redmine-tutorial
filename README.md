@@ -65,7 +65,7 @@ ngrok http 3000
 ```
 
 ## Configuracion de Redmine
-Vea el video en [Video tutoral](http://youtube/ddd)
+Vea el video en [Video tutorial](http://youtube/ddd)
 ### Registro de Usuarios
 ### Creacion de un proyecto
 ### Creacion de Flujo

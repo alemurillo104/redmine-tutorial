@@ -47,11 +47,6 @@ chmod +x install-redmine.sh
   - Descargar gemas
   - Levantar servidor
 
-## Configuracion de Redmin
-### Registro de Usuarios
-### Creacion de un proyecto
-### Creacion de Flujo
-
 ## Configuración de Ngrok 
 Una vez se ejecute el script mencionado anteriormente, para obtener una url publica, utilizaremos la herramienta ngrok, para exponer los servicios locales de la VM a Internet.
 Ejecutamos los siguientes comandos:
@@ -68,6 +63,12 @@ ngrok authtoken *your_auth_token*
 ``
 ngrok http 80
 ``
+
+## Configuracion de Redmin
+### Registro de Usuarios
+### Creacion de un proyecto
+### Creacion de Flujo
+
 ## Reportar un Ticket en Redmin
 ### Sitio Web
 ### Plugin Netbeans

@@ -9,6 +9,14 @@ apt install unzip --yes
 apt install build-essential --yes
 apt install libsqlite3-dev --yes
 
+# Install ngrok
+# Download Ngrok
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+# Unzip the Downloaded File
+unzip ngrok-stable-linux-amd64.zip 
+# Move Ngrok to a System-Wide Location
+sudo mv ngrok /usr/local/bin
+
 # Install Ruby-Install
 wget https://github.com/postmodern/ruby-install/releases/download/v0.9.2/ruby-install-0.9.2.tar.gz
 tar -xzvf ruby-install-0.9.2.tar.gz

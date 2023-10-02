@@ -52,7 +52,22 @@ chmod +x install-redmine.sh
 ### Creacion de un proyecto
 ### Creacion de Flujo
 
+## Configuración de Ngrok 
+Una vez se ejecute el script mencionado anteriormente, para obtener una url publica, utilizaremos la herramienta ngrok, para exponer los servicios locales de la VM a Internet.
+Ejecutamos los siguientes comandos:
+-  Autenticación de Ngrok: reemplazar **your_auth_token** por el token obtenido en tu cuenta en ngrok.
+  
+``
+ngrok authtoken *your_auth_token*
+``
+> **NOTA**
+> Para obtener su token, ingrese a la plataforma de [Ngrok](https://ngrok.com/) e inicie sesión con su usuario.
 
+- Ejecutar Ngrok en el puerto deseado, ejm: puerto 80.
+
+``
+ngrok http 80
+``
 ## Reportar un Ticket en Redmin
 ### Sitio Web
 ### Plugin Netbeans

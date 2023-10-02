@@ -1,3 +1,6 @@
+#!/usr/bin
+# Autores: Alejandra Murillo y Willyams Yujra
+# Fecha: 29/09/2023 
 cd /opt
 apt update
 apt install wget --yes

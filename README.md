@@ -7,7 +7,7 @@
 - Alejandra Murillo
 - Willyams Yujra
 
-## Tutorial de Redmine
+## Tutorial de Redmine para Gestión de Proyectos
 
 URL del proyecto: [https://github.com/alemurillo104/redmine-tutorial](https://github.com/alemurillo104/redmine-tutorial)
 

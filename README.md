@@ -29,7 +29,7 @@ Ejecute el contenido del script en la maquina donde desee instalar **Redmin** o 
 
 ```sh
 cd /opt
-wget https://raw.githubusercontent.com/alemurillo104/redmine-tutorial/main/install-redmine.sh?noCache
+wget https://raw.githubusercontent.com/alemurillo104/redmine-tutorial/main/install-redmine.sh
 chmod +x install-redmine.sh
 ./install-redmine.sh
 ```

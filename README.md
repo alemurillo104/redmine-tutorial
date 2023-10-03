@@ -76,7 +76,3 @@ Vea el video en [Video tutorial](http://youtube/ddd)
 - Instalar el plugin **redminenb-1.12.1-SNAPSHOT.nbm**
 
 ## Obtener un Reporte de Tickets en Redmine
-
-
-### Screenshots
-(Aún se deben añadir)
